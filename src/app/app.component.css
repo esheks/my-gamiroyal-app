@@ -1,0 +1,25 @@
+/* .jumbotron{
+    background-color:#eee; */
+    /* background-color:rgb(220, 245, 233); */
+    /* background-color: rgb(0, 162, 255) */
+/* } */
+.badge{
+    /* background-color:white; */
+    /* background-color:rgba(255, 0, 0, 0.965);  */
+    color: black;
+    
+    
+} 
+#bar{
+    color: white; 
+}
+.dropdown-menu{
+    color: black;
+}
+#icon{
+    background-size: 100px bold;
+}
+h2{
+    text-align: center;
+}
+
